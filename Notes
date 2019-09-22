@@ -1,0 +1,18 @@
+Always style.css file link in html will be at the bottom of all css for overright css code.
+
+----------------------------------------------------------
+For collect image from psd file:
+
+1.Select select tool by click [ location leftbar-top-right ] 
+2.Then click on the psd image 
+3.Next click on the rightbar-Layers-sepcific layer
+4.Ctrl A + Ctrl C + Ctrl N + Enter + Ctrl V
+
+------------------------------------------------------------
+
+For copy all html class for paste in css:
+
+Go to http://extractcss.com
+
+copy all html code and paste in there then click on extract and copy all css and paste in our
+style.css file.then check and correction.
